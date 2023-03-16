@@ -1,0 +1,35 @@
+{
+  "name": "@dev-toolbox/css-json",
+  "version": "1.0.9",
+  "type": "module",
+  "module": "index.js",
+  "main": "index.js",
+  "description": "@dev-toolbox/css-json package is created for the developers to parse the CSS and get the structured data in multiple helpful formats. In Simple Terms this package Parse JSON from CSS string and it can transform the generated JSON to string CSS.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameezrami/css-json.git"
+  },
+  "keywords": [
+    "css",
+    "json",
+    "parse",
+    "css-parse",
+    "css-parser",
+    "css-to-json",
+    "json-css",
+    "json-parse-from-css",
+    "json-to-css",
+    "css-json"
+  ],
+  "author": "Thinkster <Rameez> (rameespu@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rameezrami/css-json/issues"
+  },
+  "homepage": "https://github.com/rameezrami/css-json#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
